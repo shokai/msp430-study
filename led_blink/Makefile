@@ -11,4 +11,4 @@ all: $(OBJS)
 	$(CC) $(CFLAGS) -c $<
 
 clean:
-	rm -fr main.elf $(OBJS)
+	rm -f main.elf $(OBJS)
