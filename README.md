@@ -7,6 +7,8 @@ MSP430 LaunchPad Study
 * Macports
 * mspgcc
 
+Install
+
     % sudo port install msp430-gcc msp430-gdb msp430-libc mspdebug
 
 
